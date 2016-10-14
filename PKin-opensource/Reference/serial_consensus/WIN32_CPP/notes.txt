@@ -1,0 +1,28 @@
+commandline
+
+exe test <nloci> <inputfile> <outfilename>
+
+-------------
+possibilitiesMap - keyed on (allele1, allele2)
+each key hashes to a value of int arrays of size 15
+These arrays are a simple binary string denoting that they belong to a parent set
+
+In other words, this is a hash map that given an individual's genotype, returns a bitstring which is 1 if the genotype could come from the two parents and 0 if not
+
+-------------
+possibilities = array of lists of size 15
+each list is all the possible sib types that belong to a parent set (i.e., (1,2),(1,2))
+
+In other words, possibilites is just an array of lists where each list is the siblings-complete.csv in list form.
+
+---
+alleles = array of hashmaps of size nloci.  it appears to just be a frequency counter for an allele at each locus.
+
+---
+
+data = the global list of organism where each entry contains the name of the individual and the alleles at each locus for that individual.
+
+----
+
+sibgroups structure
+% allelemappings - hashtable for mapping an allele to 1...n specific to a locus
