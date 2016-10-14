@@ -1,0 +1,470 @@
+#loci = 6reading data from ../uploads/139_new Number of groups at loop: 1862
+Number of groups at loop: 1862
+#loci = 6reading data from ../uploads/139_new Number of groups at loop: 1862
+Number of groups at loop: 1862
+Processing output.lst
+writing output.sol
+writing output.sol
+Executingwrite-solution.pl -i output -s output.sol -o output.soln
+Reading solution file
+Reading animal names
+Printing solution
+"Set(0):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(0):"	  22 25 26 39
+"Set(29):"	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(29):"	  9 10 11 12
+"Set(427):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1
+
+"Set(427):"	  54 55 56 57 58
+"Set(770):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(770):"	  23 24 37 38
+"Set(905):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+
+"Set(905):"	  45 46 47 48
+"Set(1063):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1063):"	  18 19 20 21
+"Set(1078):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1078):"	  32 33 34 35 36
+"Set(1082):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0
+
+"Set(1082):"	  49 50 51 52 53
+"Set(1194):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1194):"	  27 28 29 30 31
+"Set(1272):"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1272):"	  13 14 15 16 17
+"Set(1371):"	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1371):"	  0 1 2 3 4
+"Set(1592):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1592):"	  40 41 42 43 44
+"Set(1640):"	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1640):"	  5 6 7 8
+#loci = 6reading data from ../uploads/139_new Number of groups at loop: 1862
+Number of groups at loop: 1862
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Job output.gms Start 05/14/08 16:37:14
+GAMS Rev 149  Copyright (C) 1987-2007 GAMS Development. All rights reserved
+*** License file too old for this version of GAMS.
+*** Maintenance expired 32 days ago.
+Licensee: Wanpracha Art Chaovalitwongse                  G070625:1225AP-LNX
+          Rutgers, The State University of New Jersey                DC6521
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- output.gms(1966) 3 Mb
+--- Starting execution: elapsed 0:00:00.117
+--- output.gms(1963) 4 Mb
+--- Generating MIP model setcover
+--- output.gms(1964) 4 Mb
+---   60 rows  1,922 columns  6,273 non-zeroes
+---   1,921 discrete-columns
+--- output.gms(1964) 4 Mb
+--- Executing CPLEX: elapsed 0:00:00.149
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Restarting execution
+--- output.gms(1964) 0 Mb
+--- Reading solution for model setcover
+--- output.gms(1966) 3 Mb
+*** Status: Normal completion
+--- Job output.gms Stop 05/14/08 16:37:14 elapsed 0:00:00.223
+Processing output.lst
+writing output.sol
+writing output.sol
+Executingwrite-solution.pl -i output -s output.sol -o output.soln
+Reading solution file
+Reading animal names
+Printing solution
+"Set(0):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(0):"	  22 25 26 39
+"Set(29):"	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(29):"	  9 10 11 12
+"Set(427):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1
+
+"Set(427):"	  54 55 56 57 58
+"Set(770):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(770):"	  23 24 37 38
+"Set(905):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+
+"Set(905):"	  45 46 47 48
+"Set(1063):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1063):"	  18 19 20 21
+"Set(1078):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1078):"	  32 33 34 35 36
+"Set(1082):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0
+
+"Set(1082):"	  49 50 51 52 53
+"Set(1194):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1194):"	  27 28 29 30 31
+"Set(1272):"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1272):"	  13 14 15 16 17
+"Set(1371):"	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1371):"	  0 1 2 3 4
+"Set(1592):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1592):"	  40 41 42 43 44
+"Set(1640):"	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1640):"	  5 6 7 8
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Job output.gms Start 05/14/08 16:37:44
+*** Unable to open input file (RC=2) output.gms
+*** SysMsg: No such file or directory
+*** Status: Terminated due to parameter errors
+--- Job output.gms Stop 05/14/08 16:37:44 elapsed 0:00:00.000
+Processing output.lst
+Reading solution file
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Job output.gms Start 05/14/08 16:38:05
+*** Unable to open input file (RC=2) output.gms
+*** SysMsg: No such file or directory
+*** Status: Terminated due to parameter errors
+--- Job output.gms Stop 05/14/08 16:38:05 elapsed 0:00:00.001
+Processing output.lst
+Reading solution file
+#loci = 7reading data from ../uploads/143_new Number of groups at loop: 1956
+Number of groups at loop: 1956
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Job output.gms Start 05/14/08 16:39:47
+GAMS Rev 149  Copyright (C) 1987-2007 GAMS Development. All rights reserved
+*** License file too old for this version of GAMS.
+*** Maintenance expired 32 days ago.
+Licensee: Wanpracha Art Chaovalitwongse                  G070625:1225AP-LNX
+          Rutgers, The State University of New Jersey                DC6521
+          License for teaching and research at degree granting institutions
+--- Starting compilation
+--- output.gms(2060) 3 Mb
+--- Starting execution: elapsed 0:00:00.191
+--- output.gms(2057) 4 Mb
+--- Generating MIP model setcover
+--- output.gms(2058) 4 Mb
+---   60 rows  2,016 columns  6,558 non-zeroes
+---   2,015 discrete-columns
+--- output.gms(2058) 4 Mb
+--- Executing CPLEX: elapsed 0:00:00.246
+*** Open logfile error: (R=0) FN="/dev/tty"
+*** Msg=Success
+*** Logging to standard output
+--- Restarting execution
+--- output.gms(2058) 0 Mb
+--- Reading solution for model setcover
+--- output.gms(2060) 3 Mb
+*** Status: Normal completion
+--- Job output.gms Stop 05/14/08 16:39:47 elapsed 0:00:00.380
+Processing output.lst
+writing output.sol
+writing output.sol
+Executingwrite-solution.pl -i output -s output.sol -o output.soln
+Reading solution file
+Reading animal names
+Printing solution
+"Set(153):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0
+
+"Set(153):"	  45 46 47 48
+"Set(193):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(193):"	  37 38 39
+"Set(457):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1
+
+"Set(457):"	  54 55 56 57 58
+"Set(486):"	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(486):"	  0 1 2 3 4
+"Set(605):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(605):"	  22 23 24 25 26
+"Set(787):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(787):"	  18 19 20 21
+"Set(788):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0
+
+"Set(788):"	  49 50 51 52 53
+"Set(1004):"	0	0	0	0	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1004):"	  9 10 11 12
+"Set(1147):"	0	0	0	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1147):"	  5 6 7 8
+"Set(1195):"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1195):"	  13 14 15 16 17
+"Set(1617):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1617):"	  27 28 29 30 31
+"Set(1633):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1633):"	  40 41 42 43 44
+"Set(1762):"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+
+"Set(1762):"	  32 33 34 35 36
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+ABORTING! Cannot open output.lst input file!
+ABORTING! Cannot open output.sol input file!
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Urgghhh.... cant do this, insufficient data
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+Segmentation fault (core dumped)
+sh: /opt/lx3gams/gams: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory
+sh: /home/kinalyzer/www/consensus/test: No such file or directory

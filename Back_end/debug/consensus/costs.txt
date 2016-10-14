@@ -1,0 +1,19 @@
+###################
+## This file contains the different costs for different edit operations
+# lines beginning with # are ignored
+# following beginning characters tell what value follows
+# 'n':NULL_ALLELE_ERROR
+# 'm':HOMO_MISTYPE_ERROR
+# 't':HETERO_MISTYPE_ERROR
+# 'p':POSSIBILITY_MISFIT
+# 'x': maxedit 
+#
+# e.g. 'x2.0' in a line means maximum cost of editing is 2.0
+#######################
+n0.34
+m1.0
+t0.7
+p0.4
+x2
+g300
+e0.45

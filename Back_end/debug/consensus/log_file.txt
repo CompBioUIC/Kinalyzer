@@ -1,0 +1,1636 @@
+Tue Apr 15 01:23:29 2008 Daemon Started. 
+Tue Apr 15 01:33:22 2008 Daemon Started. 
+Tue Apr 15 02:17:23 2008 Daemon Started. 
+Tue Apr 15 02:18:06 2008 Daemon Started. 
+Tue Apr 15 02:18:53 2008 Daemon Started. 
+Tue Apr 15 02:19:53 2008 Daemon Started. 
+Tue Apr 15 02:21:23 2008 Daemon Started. 
+Tue Apr 15 02:42:27 2008 Daemon Started. 
+Tue Apr 15 12:08:19 2008 Daemon Started. 
+Tue Apr 15 12:11:28 2008 Daemon Started. 
+Tue Apr 15 12:11:56 2008 Daemon Started. 
+Tue Apr 15 12:25:41 2008 Daemon Started. 
+Tue Apr 15 12:29:23 2008 Daemon Started. 
+Tue Apr 15 12:40:54 2008 Daemon Started. 
+Tue Apr 15 12:43:21 2008 Daemon Started. 
+Tue Apr 15 12:46:09 2008 Daemon Started. 
+Tue Apr 15 15:08:58 2008 Daemon Started. 
+Tue Apr 15 15:16:53 2008 Daemon Started. 
+Thu Apr 17 15:25:14 2008 Daemon Started. 
+Thu Apr 17 15:32:17 2008 Daemon Started. 
+Thu Apr 17 15:32:47 2008 Daemon Started. 
+Thu Apr 17 15:33:31 2008 Daemon Started. 
+Thu Apr 17 15:35:51 2008 Daemon Started. 
+Thu Apr 17 15:36:34 2008 Daemon Started. 
+Thu Apr 17 15:36:57 2008 Daemon Started. 
+Thu Apr 17 15:44:40 2008 Daemon Started. 
+Wed Apr 23 02:08:11 2008 Daemon Started. 
+Wed Apr 23 10:54:16 2008 Daemon Started. 
+Wed Apr 23 11:02:05 2008 Daemon Started. 
+Wed Apr 23 11:04:27 2008 Daemon Started. 
+Wed Apr 23 11:06:31 2008 Daemon Started. 
+Wed Apr 23 11:11:34 2008 Daemon Started. 
+Wed Apr 23 11:11:34 2008 The current request is --- 38 of withoutlogin 
+
+Wed Apr 23 11:12:45 2008 The current request is --- 39 of withoutlogin2 
+
+Wed Apr 23 11:22:58 2008 Daemon Started. 
+Wed Apr 23 11:22:58 2008 The current request is --- 39 of withoutlogin2 
+
+Wed Apr 23 11:22:58 2008 0
+Wed Apr 23 12:10:15 2008 Daemon Started. 
+Wed Apr 23 12:10:15 2008 The current request is --- 40 of out_test 
+
+Wed Apr 23 12:10:16 2008 out_str
+Wed Apr 23 12:11:45 2008 Daemon Started. 
+Wed Apr 23 12:12:15 2008 The current request is --- 41 of out_test 
+
+Wed Apr 23 12:12:16 2008 #loci = 12reading data from ../uploads/41Number of groups at loop: 715
+
+Wed Apr 23 12:18:45 2008 Daemon Started. 
+Wed Apr 23 12:19:15 2008 The current request is --- 42 of out_testall 
+
+Wed Apr 23 12:18:35 2008 Daemon Started. 
+Wed Apr 23 12:19:15 2008 The current request is --- 42 of out_testall 
+
+Wed Apr 23 12:19:15 2008 #loci = 12reading data from ../uploads/42Number of groups at loop: 715
+
+Wed Apr 23 12:19:15 2008 #loci = 12reading data from ../uploads/42Number of groups at loop: 715
+
+Wed Apr 23 12:19:15 2008 
+Wed Apr 23 12:19:15 2008 Processing output.lst
+ Executingwrite-solution.pl -i output -s output.sol -o output.soln
+
+Wed Apr 23 12:19:15 2008 Reading solution file
+
+Wed Apr 23 12:19:15 2008 
+Wed Apr 23 12:19:15 2008 
+Wed Apr 23 12:19:15 2008 Processing output.lst
+ writing output.sol
+ Executingwrite-solution.pl -i output -s output.sol -o output.soln
+
+Wed Apr 23 12:19:15 2008 Reading solution file
+ Reading animal names
+ Printing solution
+
+Wed Apr 23 12:19:15 2008 
+Wed Apr 23 12:26:04 2008 Daemon Started. 
+Wed Apr 23 12:26:04 2008 The current request is --- 42 of out_testall 
+
+Wed Apr 23 12:26:04 2008 #loci = 12reading data from ../uploads/42Number of groups at loop: 715
+
+Wed Apr 23 12:26:04 2008 
+Wed Apr 23 12:26:04 2008 Processing output.lst
+ writing output.sol
+ Executingwrite-solution.pl -i output -s output.sol -o output.soln
+
+Wed Apr 23 12:26:04 2008 Reading solution file
+ Reading animal names
+ Printing solution
+ "Set(351):"	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1
+ 
+ "Set(351):"	  0 14 15 16
+ "Set(438):"	0	1	1	1	1	1	0	1	1	1	0	1	1	1	0	0	0
+ 
+ "Set(438):"	  1 2 3 4 5 7 8 9 11 12 13
+ "Set(499):"	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+ 
+ "Set(499):"	  2 6 10
+
+Wed Apr 23 12:26:04 2008 
+Wed Apr 23 12:30:03 2008 Daemon Started. 
+Wed Apr 23 12:30:53 2008 The current request is --- 43 of test-out-nologin 
+
+Wed Apr 23 12:30:54 2008 #loci = 12reading data from ../uploads/43Number of groups at loop: 715
+
+Wed Apr 23 12:30:54 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 12:30:54 2008 Processing output.lst
+
+Wed Apr 23 12:30:54 2008 Reading solution file
+
+Wed Apr 23 12:30:54 2008 
+Wed Apr 23 12:32:26 2008 Daemon Started. 
+Wed Apr 23 12:32:26 2008 The current request is --- 43 of test-out-nologin 
+
+Wed Apr 23 12:32:26 2008 #loci = 12reading data from ../uploads/43Number of groups at loop: 715
+
+Wed Apr 23 12:32:26 2008 
+Wed Apr 23 12:32:26 2008 Processing output.lst
+
+Wed Apr 23 12:32:26 2008 Reading solution file
+
+Wed Apr 23 12:32:26 2008 
+Wed Apr 23 12:43:38 2008 Daemon Started. 
+Wed Apr 23 12:44:18 2008 The current request is --- 44 of test-check-err 
+
+Wed Apr 23 12:44:19 2008 #loci = 12reading data from ../uploads/44Number of groups at loop: 715
+
+Wed Apr 23 12:44:19 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 12:44:19 2008 Processing output.lst
+
+Wed Apr 23 12:44:19 2008 **write soln performed**
+Wed Apr 23 12:44:19 2008 Reading solution file
+
+Wed Apr 23 12:44:19 2008 
+Wed Apr 23 12:49:52 2008 Daemon Started. 
+Wed Apr 23 12:49:52 2008 The current request is --- 44 of test-check-err 
+
+Wed Apr 23 12:49:52 2008 #loci = 12reading data from ../uploads/44Number of groups at loop: 715
+
+Wed Apr 23 12:49:52 2008 
+Wed Apr 23 12:49:52 2008 Processing output.lst
+
+Wed Apr 23 12:49:52 2008 **write soln performed**
+Wed Apr 23 12:49:52 2008 Reading solution file
+
+Wed Apr 23 12:49:52 2008 
+Wed Apr 23 12:55:29 2008 Daemon Started. 
+Wed Apr 23 12:56:09 2008 The current request is --- 45 of chk-opsoln 
+
+Wed Apr 23 12:56:09 2008 #loci = 12reading data from ../uploads/45Number of groups at loop: 715
+
+Wed Apr 23 12:56:09 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 12:56:09 2008 Processing output.lst
+
+Wed Apr 23 12:56:09 2008 **write soln performed**
+Wed Apr 23 12:56:09 2008 Reading solution file
+
+Wed Apr 23 12:56:09 2008 
+Wed Apr 23 12:58:21 2008 Daemon Started. 
+Wed Apr 23 12:58:21 2008 The current request is --- 45 of chk-opsoln 
+
+Wed Apr 23 12:58:22 2008 #loci = 12reading data from ../uploads/45Number of groups at loop: 715
+
+Wed Apr 23 12:58:22 2008 
+Wed Apr 23 12:58:22 2008 Processing output.lst
+
+Wed Apr 23 12:58:22 2008 **write soln performed**
+Wed Apr 23 12:58:22 2008 Reading solution file
+
+Wed Apr 23 12:58:22 2008 
+Wed Apr 23 12:59:02 2008 The current request is --- 46 of chk-opsoln2 
+
+Wed Apr 23 12:59:02 2008 #loci = 12reading data from ../uploads/46Number of groups at loop: 715
+
+Wed Apr 23 12:59:02 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 12:59:02 2008 Processing output.lst
+
+Wed Apr 23 12:59:02 2008 **write soln performed**
+Wed Apr 23 12:59:02 2008 Reading solution file
+
+Wed Apr 23 12:59:02 2008 
+Wed Apr 23 13:08:17 2008 Daemon Started. 
+Wed Apr 23 13:09:27 2008 The current request is --- 47 of chk-opx 
+
+Wed Apr 23 13:09:28 2008 #loci = 7reading data from ../uploads/47 Number of groups at loop: 1930
+
+Wed Apr 23 13:09:28 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 13:09:28 2008 Processing output.lst
+
+Wed Apr 23 13:09:28 2008 **write soln performed**
+Wed Apr 23 13:09:28 2008 Reading solution file
+
+Wed Apr 23 13:09:28 2008 
+Wed Apr 23 13:10:39 2008 The current request is --- 48 of chk-opx1 
+
+Wed Apr 23 13:10:39 2008 #loci = 12reading data from ../uploads/48Number of groups at loop: 715
+
+Wed Apr 23 13:10:39 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 13:10:39 2008 Processing output.lst
+
+Wed Apr 23 13:10:39 2008 **write soln performed**
+Wed Apr 23 13:10:39 2008 Reading solution file
+
+Wed Apr 23 13:10:39 2008 
+Wed Apr 23 13:22:35 2008 Daemon Started. 
+Wed Apr 23 13:22:35 2008 The current request is --- 48 of chk-opx1 
+
+Wed Apr 23 13:22:35 2008 #loci = 12reading data from ../uploads/48Number of groups at loop: 715
+
+Wed Apr 23 13:22:35 2008 
+Wed Apr 23 13:22:35 2008 Processing output.lst
+
+Wed Apr 23 13:22:35 2008 **write soln performed**
+Wed Apr 23 13:22:35 2008 Reading solution file
+
+Wed Apr 23 13:22:35 2008 
+Wed Apr 23 13:23:30 2008 Daemon Started. 
+Wed Apr 23 13:24:40 2008 The current request is --- 49 of file 
+
+Wed Apr 23 13:24:41 2008 #loci = 12reading data from ../uploads/49Number of groups at loop: 715
+
+Wed Apr 23 13:24:41 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 13:24:41 2008 Processing output.lst
+
+Wed Apr 23 13:24:41 2008 **write soln performed**
+Wed Apr 23 13:24:41 2008 Reading solution file
+
+Wed Apr 23 13:24:41 2008 
+Wed Apr 23 16:15:05 2008 Daemon Started. 
+Wed Apr 23 16:15:05 2008 The current request is --- 49 of file 
+
+Wed Apr 23 16:15:05 2008 #loci = 12reading data from ../uploads/49Number of groups at loop: 715
+
+Wed Apr 23 16:15:06 2008 
+Wed Apr 23 16:15:06 2008 Processing output.lst
+
+Wed Apr 23 16:15:06 2008 **write soln performed**
+Wed Apr 23 16:15:06 2008 Reading solution file
+
+Wed Apr 23 16:15:06 2008 
+Wed Apr 23 16:17:06 2008 The current request is --- 50 of sudo 
+
+Wed Apr 23 16:17:06 2008 #loci = 12reading data from ../uploads/50Number of groups at loop: 715
+
+Wed Apr 23 16:17:06 2008 *** Open logfile error: (R=0) FN="/dev/tty"
+
+Wed Apr 23 16:17:06 2008 Processing output.lst
+
+Wed Apr 23 16:17:06 2008 **write soln performed**
+Wed Apr 23 16:17:06 2008 Reading solution file
+
+Wed Apr 23 16:17:06 2008 
+Wed Apr 23 16:24:22 2008 Daemon Started. 
+Wed Apr 23 16:24:22 2008 The current request is --- 50 of sudo 
+
+Wed Apr 23 16:24:22 2008 #loci = 12reading data from ../uploads/50Unable to write results
+
+Wed Apr 23 16:24:22 2008 Comments from running gams --
+Wed Apr 23 16:24:22 2008 
+Wed Apr 23 16:24:22 2008 comments from running extract script --
+Wed Apr 23 16:24:22 2008 Processing output.lst
+
+Wed Apr 23 16:24:22 2008 **write soln performed**
+Wed Apr 23 16:24:22 2008 Reading solution file
+
+Wed Apr 23 16:24:22 2008 
+Wed Apr 23 16:25:11 2008 Daemon Started. 
+Wed Apr 23 16:25:11 2008 The current request is --- 50 of sudo 
+
+Wed Apr 23 16:25:11 2008 #loci = 12reading data from ../uploads/50Number of groups at loop: 715
+
+Wed Apr 23 16:25:11 2008 Comments from running gams --
+Wed Apr 23 16:25:11 2008 
+Wed Apr 23 16:25:11 2008 comments from running extract script --
+Wed Apr 23 16:25:11 2008 Processing output.lst
+
+Wed Apr 23 16:25:12 2008 **write soln performed**
+Wed Apr 23 16:25:12 2008 Reading solution file
+
+Wed Apr 23 16:25:12 2008 
+Tue May  6 15:41:38 2008 Daemon Started. 
+Tue May  6 15:41:48 2008 The current request is --- 98 of pg 
+
+Tue May  6 15:41:49 2008 #loci = 7reading data from ../uploads/98 Number of groups at loop: 1956
+
+Tue May  6 15:41:50 2008 Comments from running gams --
+Tue May  6 15:41:50 2008 
+Tue May  6 15:41:50 2008 comments from running extract script --
+Tue May  6 15:41:50 2008 Processing output.lst
+
+Tue May  6 15:41:50 2008 **write soln performed**
+Tue May  6 15:41:50 2008 Reading solution file
+
+Tue May  6 15:41:50 2008 
+Tue May  6 17:09:54 2008 The current request is --- 99 of pg 
+
+Tue May  6 17:09:56 2008 #loci = 7reading data from ../uploads/99 Number of groups at loop: 1956
+
+Tue May  6 17:09:56 2008 Comments from running gams --
+Tue May  6 17:09:56 2008 
+Tue May  6 17:09:56 2008 comments from running extract script --
+Tue May  6 17:09:56 2008 Processing output.lst
+
+Tue May  6 17:09:56 2008 **write soln performed**
+Tue May  6 17:09:56 2008 Reading solution file
+
+Tue May  6 17:09:56 2008 
+Tue May  6 17:17:47 2008 The current request is --- 100 of pg 
+
+Tue May  6 17:17:49 2008 #loci = 7reading data from ../uploads/100 Number of groups at loop: 1956
+
+Tue May  6 17:17:49 2008 Comments from running gams --
+Tue May  6 17:17:49 2008 
+Tue May  6 17:17:49 2008 comments from running extract script --
+Tue May  6 17:17:49 2008 Processing output.lst
+
+Tue May  6 17:17:49 2008 **write soln performed**
+Tue May  6 17:17:49 2008 Reading solution file
+
+Tue May  6 17:17:49 2008 
+Tue May  6 17:24:10 2008 The current request is --- 101 of pg 
+
+Tue May  6 17:24:11 2008 #loci = 7reading data from ../uploads/101 Number of groups at loop: 1956
+
+Tue May  6 17:24:12 2008 Comments from running gams --
+Tue May  6 17:24:12 2008 
+Tue May  6 17:24:12 2008 comments from running extract script --
+Tue May  6 17:24:12 2008 Processing output.lst
+
+Tue May  6 17:24:12 2008 **write soln performed**
+Tue May  6 17:24:12 2008 Reading solution file
+
+Tue May  6 17:24:12 2008 
+Thu May  8 15:54:05 2008 Daemon Started. 
+Thu May  8 15:54:05 2008 The current request is --- 102 of priyaa 
+
+Thu May  8 15:54:07 2008 Comments from running gams --
+Thu May  8 15:54:07 2008 
+Thu May  8 15:54:07 2008 comments from running extract script --
+Thu May  8 15:54:07 2008 Processing output.lst
+
+Thu May  8 15:54:07 2008 **write soln performed**
+Thu May  8 15:54:07 2008 Reading solution file
+
+Thu May  8 15:54:07 2008 
+Thu May  8 16:00:23 2008 Daemon Started. 
+Thu May  8 16:01:13 2008 The current request is --- 102 of priyaa 
+
+Thu May  8 16:01:13 2008 #loci = 6reading data from ../uploads/102Unable to write results
+
+Thu May  8 16:01:13 2008 Comments from running gams --
+Thu May  8 16:01:13 2008 
+Thu May  8 16:01:13 2008 comments from running extract script --
+Thu May  8 16:01:13 2008 Processing output.lst
+
+Thu May  8 16:01:13 2008 **write soln performed**
+Thu May  8 16:01:13 2008 Reading solution file
+
+Thu May  8 16:01:13 2008 
+Mon May 12 01:19:36 2008 Daemon Started. 
+Mon May 12 01:19:36 2008 The current request is --- 103 of p 
+
+Mon May 12 01:19:36 2008 #loci = 6reading data from ../uploads/103Unable to write results
+
+Mon May 12 01:19:36 2008 Comments from running gams --
+Mon May 12 01:19:36 2008 
+Mon May 12 01:19:36 2008 comments from running extract script --
+Mon May 12 01:19:36 2008 Processing output.lst
+
+Mon May 12 01:19:36 2008 **write soln performed**
+Mon May 12 01:19:36 2008 Reading solution file
+
+Mon May 12 01:19:36 2008 
+Mon May 12 01:21:44 2008 Daemon Started. 
+Mon May 12 01:21:44 2008 The current request is --- 104 of p 
+
+Mon May 12 01:21:44 2008 #loci = 7reading data from ../uploads/104Unable to write results
+
+Mon May 12 01:21:44 2008 Comments from running gams --
+Mon May 12 01:21:44 2008 
+Mon May 12 01:21:44 2008 comments from running extract script --
+Mon May 12 01:21:44 2008 Processing output.lst
+
+Mon May 12 01:21:44 2008 **write soln performed**
+Mon May 12 01:21:44 2008 Reading solution file
+
+Mon May 12 01:21:44 2008 
+Mon May 12 01:21:44 2008 The current request is --- 105 of p 
+
+Mon May 12 01:21:44 2008 #loci = 7reading data from ../uploads/105Unable to write results
+
+Mon May 12 01:21:44 2008 Comments from running gams --
+Mon May 12 01:21:44 2008 
+Mon May 12 01:21:44 2008 comments from running extract script --
+Mon May 12 01:21:44 2008 Processing output.lst
+
+Mon May 12 01:21:44 2008 **write soln performed**
+Mon May 12 01:21:44 2008 Reading solution file
+
+Mon May 12 01:21:44 2008 
+Tue May 13 12:28:06 2008 Daemon Started. 
+Tue May 13 12:28:06 2008 The current request is --- 106 of priya 
+
+Tue May 13 12:28:06 2008 #loci = 1reading data from ../uploads/106Unable to write results
+
+Tue May 13 12:28:06 2008 Comments from running gams --
+Tue May 13 12:28:06 2008 
+Tue May 13 12:28:06 2008 comments from running extract script --
+Tue May 13 12:28:06 2008 Processing output.lst
+
+Tue May 13 12:28:06 2008 **write soln performed**
+Tue May 13 12:28:06 2008 Reading solution file
+
+Tue May 13 12:28:06 2008 
+Tue May 13 12:28:06 2008 The current request is --- 107 of priya 
+
+Tue May 13 12:28:06 2008 #loci = 7reading data from ../uploads/107Unable to write results
+
+Tue May 13 12:28:06 2008 Comments from running gams --
+Tue May 13 12:28:06 2008 
+Tue May 13 12:28:06 2008 comments from running extract script --
+Tue May 13 12:28:06 2008 Processing output.lst
+
+Tue May 13 12:28:06 2008 **write soln performed**
+Tue May 13 12:28:06 2008 Reading solution file
+
+Tue May 13 12:28:06 2008 
+Tue May 13 12:30:04 2008 Daemon Started. 
+Tue May 13 12:30:04 2008 The current request is --- 107 of priya 
+
+Tue May 13 12:30:06 2008 #loci = 7reading data from ../uploads/107 Number of groups at loop: 1930
+
+Tue May 13 12:30:06 2008 Comments from running gams --
+Tue May 13 12:30:06 2008 
+Tue May 13 12:30:06 2008 comments from running extract script --
+Tue May 13 12:30:06 2008 Processing output.lst
+
+Tue May 13 12:30:06 2008 **write soln performed**
+Tue May 13 12:30:06 2008 Reading solution file
+
+Tue May 13 12:30:06 2008 
+Tue May 13 12:43:08 2008 Daemon Started. 
+Tue May 13 12:43:08 2008 The current request is --- 107 of priya 
+
+Tue May 13 12:43:08 2008 
+Tue May 13 12:43:09 2008 Comments from running gams --
+Tue May 13 12:43:09 2008 
+Tue May 13 12:43:09 2008 comments from running extract script --
+Tue May 13 12:43:09 2008 Processing output.lst
+
+Tue May 13 12:43:09 2008 **write soln performed**
+Tue May 13 12:43:09 2008 Reading solution file
+
+Tue May 13 12:43:09 2008 
+Tue May 13 12:47:35 2008 Daemon Started. 
+Tue May 13 12:47:35 2008 The current request is --- 109 of priya 
+
+Tue May 13 12:47:37 2008 #loci = 7reading data from ../uploads/109_new Number of groups at loop: 1930
+
+Tue May 13 12:47:37 2008 Comments from running gams --
+Tue May 13 12:47:37 2008 
+Tue May 13 12:47:37 2008 comments from running extract script --
+Tue May 13 12:47:37 2008 Processing output.lst
+
+Tue May 13 12:47:37 2008 **write soln performed**
+Tue May 13 12:47:37 2008 Reading solution file
+
+Tue May 13 12:47:37 2008 
+Tue May 13 13:10:48 2008 Daemon Started. 
+Tue May 13 13:10:48 2008 The current request is --- 109 of priya 
+
+Tue May 13 13:10:50 2008 Comments from running gams --
+Tue May 13 13:10:50 2008 
+Tue May 13 13:10:50 2008 comments from running extract script --
+Tue May 13 13:10:50 2008 Processing output.lst
+
+Tue May 13 13:10:50 2008 **write soln performed**
+Tue May 13 13:10:50 2008 Reading solution file
+
+Tue May 13 13:10:50 2008 
+Tue May 13 13:15:01 2008 Daemon Started. 
+Tue May 13 13:15:01 2008 The current request is --- 109 of priya 
+
+Tue May 13 13:15:03 2008 comments from running extract script --
+Tue May 13 13:15:03 2008 Processing output.lst
+
+Tue May 13 13:15:03 2008 **write soln performed**
+Tue May 13 13:15:03 2008 Reading solution file
+
+Tue May 13 13:15:03 2008 
+Tue May 13 13:19:49 2008 Daemon Started. 
+Tue May 13 13:19:49 2008 The current request is --- 109 of priya 
+
+Tue May 13 13:19:50 2008 
+Tue May 13 13:51:48 2008 Daemon Started. 
+Tue May 13 13:51:48 2008 The current request is --- 109 of priya 
+
+Tue May 13 13:51:50 2008 
+Tue May 13 13:51:50 2008 The current request is --- 110 of Isabel 
+
+Tue May 13 13:52:02 2008 
+Tue May 13 13:52:03 2008 The current request is --- 111 of Isabel 
+
+Tue May 13 13:52:31 2008 
+Wed May 14 03:13:35 2008 Daemon Started. 
+Wed May 14 03:14:25 2008 The current request is --- 112 of pp 
+
+Wed May 14 03:14:28 2008 
+Wed May 14 03:44:55 2008 Daemon Started. 
+Wed May 14 03:44:55 2008 The current request is --- 109 of priya 
+
+Wed May 14 03:44:57 2008 
+Wed May 14 03:48:04 2008 Daemon Started. 
+Wed May 14 03:48:04 2008 The current request is --- 109 of priya 
+
+Wed May 14 03:48:06 2008 
+Wed May 14 03:52:03 2008 Daemon Started. 
+Wed May 14 03:52:33 2008 The current request is --- 113 of pp 
+
+Wed May 14 03:52:33 2008 
+Wed May 14 04:04:13 2008 Daemon Started. 
+Wed May 14 04:04:13 2008 The current request is --- 114 of pp_new 
+
+Wed May 14 04:04:15 2008 
+Wed May 14 04:12:53 2008 Daemon Started. 
+Wed May 14 04:13:33 2008 The current request is --- 115 of pp_n 
+
+Wed May 14 04:13:33 2008 
+Wed May 14 04:15:03 2008 The current request is --- 116 of pp_n 
+
+Wed May 14 04:15:04 2008 
+Wed May 14 04:18:30 2008 Daemon Started. 
+Wed May 14 04:19:10 2008 The current request is --- 117 of pp_n 
+
+Wed May 14 04:19:10 2008 
+Wed May 14 04:28:03 2008 Daemon Started. 
+Wed May 14 04:28:03 2008 The current request is --- 118 of pp_n 
+
+Wed May 14 04:28:03 2008 
+Wed May 14 04:31:08 2008 Daemon Started. 
+Wed May 14 04:31:28 2008 The current request is --- 119 of pp_n 
+
+Wed May 14 04:31:28 2008 
+Wed May 14 13:06:13 2008 Daemon Started. 
+Wed May 14 13:06:13 2008 The current request is --- 120 of Isabel 
+
+Wed May 14 13:06:13 2008 
+Wed May 14 13:06:13 2008 The current request is --- 121 of Isabel 
+
+Wed May 14 13:06:27 2008 
+Wed May 14 13:16:08 2008 The current request is --- 122 of priya 
+
+Wed May 14 13:16:08 2008 
+Wed May 14 13:20:08 2008 The current request is --- 123 of priya 
+
+Wed May 14 13:20:08 2008 
+Wed May 14 13:22:19 2008 The current request is --- 124 of priya 
+
+Wed May 14 13:22:21 2008 
+Wed May 14 13:25:56 2008 Daemon Started. 
+Wed May 14 13:25:56 2008 The current request is --- 125 of priya 
+
+Wed May 14 13:25:58 2008 
+Wed May 14 13:26:58 2008 The current request is --- 126 of priya 
+
+Wed May 14 13:26:58 2008 
+Wed May 14 13:27:48 2008 The current request is --- 127 of priya 
+
+Wed May 14 13:27:50 2008 
+Wed May 14 13:32:51 2008 Daemon Started. 
+Wed May 14 13:32:51 2008 The current request is --- 128 of priya 
+
+Wed May 14 13:32:52 2008 
+Wed May 14 13:34:33 2008 The current request is --- 129 of priya 
+
+Wed May 14 13:34:35 2008 
+Wed May 14 13:35:55 2008 The current request is --- 130 of priya 
+
+Wed May 14 13:35:55 2008 
+Wed May 14 13:38:05 2008 The current request is --- 131 of priya 
+
+Wed May 14 13:38:08 2008 
+Wed May 14 13:38:38 2008 The current request is --- 132 of priya 
+
+Wed May 14 13:38:40 2008 
+Wed May 14 13:39:50 2008 The current request is --- 133 of priya 
+
+Wed May 14 13:39:50 2008 
+Wed May 14 13:58:27 2008 Daemon Started. 
+Wed May 14 13:58:27 2008 The current request is --- 134 of priya 
+
+Wed May 14 13:58:29 2008 
+Wed May 14 13:59:39 2008 The current request is --- 135 of priya 
+
+Wed May 14 13:59:39 2008 
+Wed May 14 14:00:29 2008 The current request is --- 136 of priya 
+
+Wed May 14 14:00:29 2008 
+Wed May 14 14:03:40 2008 The current request is --- 137 of priya 
+
+Wed May 14 14:03:40 2008 
+Wed May 14 16:04:43 2008 Daemon Started. 
+Wed May 14 16:05:24 2008 The current request is --- 138 of priya 
+
+Wed May 14 16:05:24 2008 
+Wed May 14 16:12:40 2008 Daemon Started. 
+Wed May 14 16:12:50 2008 The current request is --- 139 of priya 
+
+Wed May 14 16:12:52 2008 
+Wed May 14 16:14:59 2008 Daemon Started. 
+Wed May 14 16:15:20 2008 The current request is --- 140 of priya 
+
+Wed May 14 16:15:20 2008 
+Wed May 14 16:34:07 2008 Daemon Started. 
+Wed May 14 16:34:07 2008 The current request is --- 139 of priya 
+
+Wed May 14 16:34:08 2008 
+Wed May 14 16:35:50 2008 Daemon Started. 
+Wed May 14 16:36:00 2008 The current request is --- 139 of priya 
+
+Wed May 14 16:36:02 2008 
+Wed May 14 16:37:02 2008 Daemon Started. 
+Wed May 14 16:37:12 2008 The current request is --- 139 of priya 
+
+Wed May 14 16:37:14 2008 
+Wed May 14 16:37:44 2008 The current request is --- 141 of priya 
+
+Wed May 14 16:37:44 2008 
+Wed May 14 16:38:05 2008 The current request is --- 142 of priya 
+
+Wed May 14 16:38:05 2008 
+Wed May 14 16:39:45 2008 The current request is --- 143 of priya 
+
+Wed May 14 16:39:47 2008 
+Wed May 14 16:40:32 2008 Daemon Started. 
+Wed May 14 16:40:32 2008 The current request is --- 144 of priya 
+
+Wed May 14 16:40:32 2008 
+Wed May 14 16:47:20 2008 Daemon Started. 
+Wed May 14 16:47:20 2008 The current request is --- 145 of priya 
+
+Wed May 14 16:47:22 2008 
+Wed May 14 16:53:19 2008 Daemon Started. 
+Wed May 14 16:53:29 2008 The current request is --- 146 of priya 
+
+Wed May 14 16:53:29 2008 
+Wed May 14 16:54:10 2008 Daemon Started. 
+Thu May 22 23:05:49 2008 The current request is --- 147 of Saad 
+
+Thu May 22 23:08:14 2008 
+Wed Jun  4 11:45:15 2008 The current request is --- 148 of pg 
+
+Wed Jun  4 11:45:16 2008 
+Wed Jun  4 11:46:26 2008 The current request is --- 149 of pg 
+
+Wed Jun  4 11:46:26 2008 
+Wed Jun  4 11:52:27 2008 The current request is --- 150 of pg 
+
+Wed Jun  4 11:52:27 2008 
+Wed Jun  4 11:54:37 2008 The current request is --- 151 of pg 
+
+Wed Jun  4 11:54:38 2008 
+Wed Jun  4 11:57:08 2008 The current request is --- 152 of pg 
+
+Wed Jun  4 11:57:08 2008 
+Wed Jun  4 11:24:27 2008 Daemon Started. 
+Wed Jun  4 11:57:08 2008 The current request is --- 152 of pg 
+
+Wed Jun  4 11:57:08 2008 
+Wed Jun  4 12:12:04 2008 Daemon Started. 
+Wed Jun  4 12:12:24 2008 The current request is --- 153 of pg 
+
+Wed Jun  4 12:12:24 2008 
+Wed Jun  4 12:14:35 2008 The current request is --- 154 of pg 
+
+Wed Jun  4 12:14:35 2008 
+Wed Jun  4 12:17:45 2008 The current request is --- 155 of pg 
+
+Wed Jun  4 12:17:46 2008 
+Wed Jun  4 12:19:46 2008 The current request is --- 156 of pg 
+
+Wed Jun  4 12:19:46 2008 
+Wed Jun  4 12:21:57 2008 The current request is --- 157 of pg 
+
+Wed Jun  4 12:21:57 2008 
+Wed Jun  4 12:22:07 2008 The current request is --- 158 of pg 
+
+Wed Jun  4 12:22:07 2008 
+Wed Jun  4 12:28:08 2008 The current request is --- 159 of pg 
+
+Wed Jun  4 12:28:08 2008 
+Wed Jun  4 13:13:20 2008 The current request is --- 160 of pg 
+
+Wed Jun  4 13:13:20 2008 
+Wed Jun  4 13:20:30 2008 The current request is --- 161 of pg 
+
+Wed Jun  4 13:20:31 2008 
+Wed Jun  4 13:22:41 2008 The current request is --- 162 of pg 
+
+Wed Jun  4 13:22:41 2008 
+Wed Jun  4 13:23:21 2008 The current request is --- 163 of pg 
+
+Wed Jun  4 13:23:21 2008 
+Wed Jun  4 13:26:52 2008 The current request is --- 164 of pg 
+
+Wed Jun  4 13:26:52 2008 
+Wed Jun  4 16:00:36 2008 Daemon Started. 
+Wed Jun  4 16:00:36 2008 The current request is --- 165 of pg 
+
+Wed Jun  4 16:00:36 2008 
+Wed Jun  4 16:00:37 2008 The current request is --- 166 of pg 
+
+Wed Jun  4 16:00:37 2008 
+Wed Jun  4 16:00:37 2008 The current request is --- 167 of pg 
+
+Wed Jun  4 16:00:37 2008 
+Wed Jun  4 16:00:37 2008 The current request is --- 168 of pg 
+
+Wed Jun  4 16:00:37 2008 
+Wed Jun  4 16:00:37 2008 The current request is --- 169 of pg 
+
+Wed Jun  4 16:00:37 2008 
+Wed Jun  4 16:00:38 2008 The current request is --- 170 of pg 
+
+Wed Jun  4 16:00:38 2008 
+Wed Jun  4 16:00:38 2008 The current request is --- 171 of pg 
+
+Wed Jun  4 16:00:38 2008 
+Wed Jun  4 16:00:38 2008 The current request is --- 172 of pg 
+
+Wed Jun  4 16:00:38 2008 
+Wed Jun  4 16:00:38 2008 The current request is --- 173 of pg 
+
+Wed Jun  4 16:00:39 2008 
+Wed Jun  4 16:00:39 2008 The current request is --- 174 of pg 
+
+Wed Jun  4 16:00:39 2008 
+Wed Jun  4 16:00:39 2008 The current request is --- 175 of pg 
+
+Wed Jun  4 16:00:39 2008 
+Wed Jun  4 16:00:39 2008 The current request is --- 176 of pg 
+
+Wed Jun  4 16:00:39 2008 
+Wed Jun  4 16:00:40 2008 The current request is --- 177 of pg 
+
+Wed Jun  4 16:00:40 2008 
+Wed Jun  4 16:00:40 2008 The current request is --- 178 of pg 
+
+Wed Jun  4 16:00:40 2008 
+Wed Jun  4 16:00:40 2008 The current request is --- 179 of pg 
+
+Wed Jun  4 16:00:40 2008 
+Wed Jun  4 16:00:40 2008 The current request is --- 180 of pg 
+
+Wed Jun  4 16:00:40 2008 
+Wed Jun  4 16:00:41 2008 The current request is --- 181 of pg 
+
+Wed Jun  4 16:00:41 2008 
+Wed Jun  4 16:00:41 2008 The current request is --- 182 of pg 
+
+Wed Jun  4 16:00:41 2008 
+Wed Jun  4 16:00:41 2008 The current request is --- 183 of pg 
+
+Wed Jun  4 16:00:41 2008 
+Wed Jun  4 16:00:41 2008 The current request is --- 184 of pg 
+
+Wed Jun  4 16:00:42 2008 
+Wed Jun  4 16:00:42 2008 The current request is --- 185 of pg 
+
+Wed Jun  4 16:00:42 2008 
+Wed Jun  4 16:00:42 2008 The current request is --- 186 of pg 
+
+Wed Jun  4 16:00:42 2008 
+Wed Jun  4 16:00:42 2008 The current request is --- 187 of pg 
+
+Wed Jun  4 16:01:08 2008 
+Wed Jun  4 16:03:18 2008 The current request is --- 188 of pg 
+
+Wed Jun  4 16:03:18 2008 
+Wed Jun  4 16:03:18 2008 The current request is --- 189 of pg 
+
+Wed Jun  4 16:03:18 2008 
+Wed Jun  4 16:03:49 2008 The current request is --- 190 of pg 
+
+Wed Jun  4 16:03:49 2008 
+Wed Jun  4 16:05:09 2008 The current request is --- 191 of pg 
+
+Wed Jun  4 16:05:09 2008 
+Mon Jun  9 04:12:02 2008 Daemon Started. 
+Mon Jun  9 04:12:02 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:12:02 2008 output.gms not found
+Mon Jun  9 04:12:44 2008 Daemon Started. 
+Mon Jun  9 04:12:44 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:12:44 2008 output.gms not found
+Mon Jun  9 04:58:45 2008 Daemon Started. 
+Mon Jun  9 04:58:45 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:58:45 2008 output.gms not found
+Mon Jun  9 04:58:54 2008 Daemon Started. 
+Mon Jun  9 04:58:54 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:58:54 2008 output.gms not found
+Mon Jun  9 04:59:01 2008 Daemon Started. 
+Mon Jun  9 04:59:01 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:59:01 2008 output.gms not found
+Mon Jun  9 04:59:20 2008 Daemon Started. 
+Mon Jun  9 04:59:20 2008 The current request is --- 192 of pg 
+
+Mon Jun  9 04:59:21 2008 
+Mon Jun  9 04:59:21 2008 The current request is --- 193 of pg 
+
+Mon Jun  9 04:59:21 2008 
+Mon Jun  9 04:59:21 2008 The current request is --- 194 of pg 
+
+Mon Jun  9 04:59:21 2008 
+Mon Jun  9 04:59:22 2008 The current request is --- 195 of pg 
+
+Mon Jun  9 04:59:22 2008 
+Mon Jun  9 04:59:22 2008 The current request is --- 196 of pg 
+
+Mon Jun  9 04:59:22 2008 
+Mon Jun  9 04:59:22 2008 The current request is --- 197 of pg 
+
+Mon Jun  9 04:59:22 2008 
+Mon Jun  9 04:59:23 2008 The current request is --- 198 of pg 
+
+Mon Jun  9 04:59:23 2008 
+Mon Jun  9 04:59:23 2008 The current request is --- 199 of pg 
+
+Mon Jun  9 04:59:23 2008 
+Mon Jun  9 04:59:23 2008 The current request is --- 200 of pg 
+
+Mon Jun  9 04:59:23 2008 
+Mon Jun  9 04:59:23 2008 The current request is --- 201 of pg 
+
+Mon Jun  9 04:59:24 2008 
+Mon Jun  9 04:59:24 2008 The current request is --- 202 of pg 
+
+Mon Jun  9 04:59:24 2008 
+Mon Jun  9 04:59:24 2008 The current request is --- 203 of pg 
+
+Mon Jun  9 04:59:24 2008 
+Mon Jun  9 04:59:24 2008 The current request is --- 204 of pg 
+
+Mon Jun  9 04:59:24 2008 
+Mon Jun  9 04:59:25 2008 The current request is --- 205 of pg 
+
+Mon Jun  9 04:59:25 2008 
+Mon Jun  9 04:59:25 2008 The current request is --- 206 of pg 
+
+Mon Jun  9 04:59:25 2008 
+Mon Jun  9 04:59:25 2008 The current request is --- 207 of pg 
+
+Mon Jun  9 04:59:25 2008 
+Mon Jun  9 04:59:25 2008 The current request is --- 208 of pg 
+
+Mon Jun  9 04:59:26 2008 
+Mon Jun  9 04:59:26 2008 The current request is --- 209 of pg 
+
+Mon Jun  9 04:59:26 2008 
+Mon Jun  9 04:59:26 2008 The current request is --- 210 of pg 
+
+Mon Jun  9 04:59:26 2008 
+Mon Jun  9 04:59:26 2008 The current request is --- 211 of pg 
+
+Mon Jun  9 04:59:26 2008 
+Mon Jun  9 04:59:27 2008 The current request is --- 212 of pg 
+
+Mon Jun  9 04:59:27 2008 
+Mon Jun  9 04:59:27 2008 The current request is --- 213 of pg 
+
+Mon Jun  9 04:59:27 2008 
+Mon Jun  9 04:59:27 2008 The current request is --- 214 of pg 
+
+Mon Jun  9 04:59:27 2008 
+Mon Jun  9 04:59:28 2008 The current request is --- 215 of pg 
+
+Mon Jun  9 04:59:28 2008 
+Mon Jun  9 04:59:28 2008 The current request is --- 216 of pg 
+
+Mon Jun  9 04:59:28 2008 
+Mon Jun  9 04:59:28 2008 The current request is --- 217 of pg 
+
+Mon Jun  9 04:59:28 2008 
+Mon Jun  9 04:59:28 2008 The current request is --- 244 of pg 
+
+Mon Jun  9 04:59:29 2008 
+Mon Jun  9 04:59:29 2008 The current request is --- 255 of pg 
+
+Mon Jun  9 04:59:29 2008 
+Mon Jun  9 04:59:29 2008 The current request is --- 256 of pg 
+
+Mon Jun  9 04:59:29 2008 
+Mon Jun  9 04:59:29 2008 The current request is --- 258 of pg 
+
+Mon Jun  9 04:59:30 2008 
+Mon Jun  9 04:59:30 2008 The current request is --- 259 of pg 
+
+Mon Jun  9 04:59:30 2008 
+Mon Jun  9 04:59:30 2008 The current request is --- 260 of pg 
+
+Mon Jun  9 04:59:30 2008 
+Mon Jun  9 04:59:30 2008 The current request is --- 262 of pg 
+
+Mon Jun  9 04:59:32 2008 
+Mon Jun  9 04:59:32 2008 The current request is --- 266 of pg 
+
+Mon Jun  9 04:59:32 2008 
+Mon Jun  9 12:43:34 2008 Daemon Started. 
+Mon Jun  9 12:50:04 2008 The current request is --- 267 of pg 
+
+Mon Jun  9 12:50:09 2008 
+Mon Jun  9 12:51:19 2008 The current request is --- 268 of pg 
+
+Mon Jun  9 12:51:19 2008 output.gms not found
+Tue Jun 10 13:59:06 2008 Daemon Started. 
+Tue Jun 10 13:59:06 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 13:59:06 2008 output.gms not found
+Tue Jun 10 13:59:19 2008 Daemon Started. 
+Tue Jun 10 13:59:19 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 13:59:19 2008 output.gms not found
+Tue Jun 10 14:03:40 2008 Daemon Started. 
+Tue Jun 10 14:03:40 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 14:03:40 2008 output.gms not found
+Tue Jun 10 14:03:41 2008 
+Tue Jun 10 14:05:40 2008 Daemon Started. 
+Tue Jun 10 14:05:40 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 14:05:40 2008 output.gms not found
+Tue Jun 10 14:05:40 2008 
+Tue Jun 10 14:17:15 2008 Daemon Started. 
+Tue Jun 10 14:17:15 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 14:17:15 2008 output.gms not found
+Tue Jun 10 14:18:56 2008 Daemon Started. 
+Tue Jun 10 14:18:56 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 14:18:56 2008 output.gms not found
+Tue Jun 10 14:25:30 2008 Daemon Started. 
+Tue Jun 10 14:25:30 2008 The current request is --- 268 of pg 
+
+Tue Jun 10 14:25:30 2008 output.gms not found
+Tue Jun 10 14:25:30 2008 The current request is --- 270 of pg 
+
+Tue Jun 10 14:25:30 2008 output.gms not found
+Tue Jun 10 14:25:30 2008 The current request is --- 271 of pg 
+
+Tue Jun 10 14:25:30 2008 output.gms not found
+Tue Jun 10 14:25:30 2008 The current request is --- 272 of pg 
+
+Tue Jun 10 14:25:36 2008 The current request is --- 317 of pg 
+
+Tue Jun 10 14:25:42 2008 The current request is --- 324 of pg 
+
+Tue Jun 10 14:31:12 2008 The current request is --- 338 of pg 
+
+Tue Jun 10 14:43:32 2008 Daemon Started. 
+Tue Jun 10 14:43:52 2008 The current request is --- 339 of pg 
+
+Tue Jun 10 14:43:52 2008 output.gms found. Running gams
+Tue Jun 10 14:43:52 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 10 14:43:52 2008 output.sol found. Running write-solution.pl
+Tue Jun 10 14:43:52 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jun 10 14:45:31 2008 Daemon Started. 
+Tue Jun 10 14:45:51 2008 The current request is --- 341 of pg 
+
+Tue Jun 10 14:45:51 2008 output.gms found. Running gams
+Tue Jun 10 14:45:51 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 10 14:45:52 2008 output.sol found. Running write-solution.pl
+Tue Jun 10 14:45:52 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jun 10 14:47:59 2008 Daemon Started. 
+Tue Jun 10 14:48:09 2008 The current request is --- 342 of pg 
+
+Tue Jun 10 14:48:09 2008 output.gms found. Running gams
+Tue Jun 10 14:48:09 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 10 14:48:09 2008 output.sol found. Running write-solution.pl
+Tue Jun 10 14:48:09 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 11 17:01:25 2008 Daemon Started. 
+Wed Jun 11 17:01:25 2008 The current request is --- 363 of pg 
+
+Wed Jun 11 17:01:26 2008 output.gms found. Running gams
+Wed Jun 11 17:01:27 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 11 17:01:27 2008 output.sol found. Running write-solution.pl
+Wed Jun 11 17:01:27 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Jun 12 12:38:17 2008 Daemon Started. 
+Thu Jun 12 13:06:18 2008 The current request is --- 364 of Tanya 
+
+Thu Jun 12 13:06:20 2008 output.gms found. Running gams
+Thu Jun 12 13:06:21 2008 output.lst found. Running extract-solution-param.pl
+Thu Jun 12 13:06:21 2008 output.sol found. Running write-solution.pl
+Thu Jun 12 13:06:21 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jun 17 12:17:12 2008 The current request is --- 365 of pg 
+
+Tue Jun 17 12:17:12 2008 output.gms found. Running gams
+Tue Jun 17 12:17:12 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 17 12:17:12 2008 output.sol found. Running write-solution.pl
+Tue Jun 17 12:17:12 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 11:18:55 2008 The current request is --- 375 of pg 
+
+Wed Jun 18 11:18:55 2008 output.gms found. Running gams
+Wed Jun 18 11:18:55 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 11:18:55 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 11:18:55 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:01:37 2008 The current request is --- 381 of pg 
+
+Wed Jun 18 12:01:37 2008 output.gms found. Running gams
+Wed Jun 18 12:01:37 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:01:37 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:01:37 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:07:27 2008 The current request is --- 381 of pg 
+
+Wed Jun 18 12:07:27 2008 output.gms found. Running gams
+Wed Jun 18 12:07:28 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:07:28 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:07:28 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:09:38 2008 The current request is --- 381 of pg 
+
+Wed Jun 18 12:09:38 2008 output.gms found. Running gams
+Wed Jun 18 12:09:38 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:09:38 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:09:38 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:12:48 2008 The current request is --- 381 of pg 
+
+Wed Jun 18 12:12:48 2008 output.gms found. Running gams
+Wed Jun 18 12:12:48 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:12:48 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:12:48 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:14:19 2008 The current request is --- 382 of pg 
+
+Wed Jun 18 12:14:19 2008 output.gms found. Running gams
+Wed Jun 18 12:14:20 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:14:20 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:14:20 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:26:21 2008 The current request is --- 384 of pg 
+
+Wed Jun 18 12:26:21 2008 output.gms found. Running gams
+Wed Jun 18 12:26:22 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:26:22 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:26:22 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:27:42 2008 The current request is --- 384 of pg 
+
+Wed Jun 18 12:27:43 2008 output.gms found. Running gams
+Wed Jun 18 12:27:43 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:27:43 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:27:43 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:33:54 2008 The current request is --- 385 of pg 
+
+Wed Jun 18 12:33:54 2008 output.gms found. Running gams
+Wed Jun 18 12:33:54 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:33:54 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:33:54 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:50:05 2008 The current request is --- 386 of pg 
+
+Wed Jun 18 12:50:05 2008 output.gms found. Running gams
+Wed Jun 18 12:50:05 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:50:05 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:50:05 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 12:50:26 2008 The current request is --- 386 of pg 
+
+Wed Jun 18 12:50:26 2008 output.gms found. Running gams
+Wed Jun 18 12:50:26 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 12:50:26 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 12:50:26 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 13:19:57 2008 The current request is --- 387 of pg 
+
+Wed Jun 18 13:19:58 2008 output.gms found. Running gams
+Wed Jun 18 13:19:58 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 13:19:58 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 13:19:58 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 13:21:28 2008 The current request is --- 388 of pg 
+
+Wed Jun 18 13:21:30 2008 output.gms found. Running gams
+Wed Jun 18 13:21:31 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 13:21:31 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 13:21:31 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 13:35:41 2008 The current request is --- 390 of pg 
+
+Wed Jun 18 13:35:48 2008 output.gms found. Running gams
+Wed Jun 18 13:35:49 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 13:35:49 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 13:35:49 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 14:02:11 2008 Daemon Started. 
+Wed Jun 18 14:02:41 2008 The current request is --- 394 of pg 
+
+Wed Jun 18 14:02:46 2008 output.gms found. Running gams
+Wed Jun 18 14:02:48 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 14:02:48 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 14:02:48 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jun 18 14:48:40 2008 The current request is --- 396 of tanya 
+
+Wed Jun 18 14:48:42 2008 output.gms found. Running gams
+Wed Jun 18 14:48:43 2008 output.lst found. Running extract-solution-param.pl
+Wed Jun 18 14:48:43 2008 output.sol found. Running write-solution.pl
+Wed Jun 18 14:48:43 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Jun 19 15:55:31 2008 The current request is --- 401 of pg 
+
+Thu Jun 19 15:55:31 2008 output.gms found. Running gams
+Thu Jun 19 15:55:31 2008 output.lst found. Running extract-solution-param.pl
+Thu Jun 19 15:55:31 2008 output.sol found. Running write-solution.pl
+Thu Jun 19 15:55:31 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Jun 19 16:17:56 2008 Daemon Started. 
+Thu Jun 19 16:20:06 2008 The current request is --- 403 of pg 
+
+Thu Jun 19 16:20:07 2008 output.gms found. Running gams
+Thu Jun 19 16:20:07 2008 output.lst found. Running extract-solution-param.pl
+Thu Jun 19 16:20:07 2008 output.sol found. Running write-solution.pl
+Thu Jun 19 16:20:07 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Jun 19 19:16:44 2008 The current request is --- 404 of pg 
+
+Thu Jun 19 19:16:48 2008 output.gms found. Running gams
+Thu Jun 19 19:16:49 2008 output.lst found. Running extract-solution-param.pl
+Thu Jun 19 19:16:49 2008 output.sol found. Running write-solution.pl
+Thu Jun 19 19:16:49 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Jun 19 22:08:25 2008 Daemon Started. 
+Fri Jun 20 11:49:27 2008 The current request is --- 405 of pg 
+
+Fri Jun 20 11:49:27 2008 output.gms found. Running gams
+Fri Jun 20 11:49:27 2008 output.lst found. Running extract-solution-param.pl
+Fri Jun 20 11:49:27 2008 output.sol found. Running write-solution.pl
+Fri Jun 20 11:49:27 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Fri Jun 20 13:11:31 2008 The current request is --- 403 of pg 
+
+Fri Jun 20 13:11:31 2008 output.gms found. Running gams
+Fri Jun 20 13:11:31 2008 output.lst found. Running extract-solution-param.pl
+Fri Jun 20 13:11:31 2008 output.sol found. Running write-solution.pl
+Fri Jun 20 13:11:31 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 16:43:59 2008 The current request is --- 414 of pg 
+
+Sun Jun 22 16:44:03 2008 output.gms found. Running gams
+Sun Jun 22 16:44:05 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 16:44:05 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 16:44:05 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 17:25:37 2008 The current request is --- 415 of PG 
+
+Sun Jun 22 17:25:42 2008 output.gms found. Running gams
+Sun Jun 22 17:25:44 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 17:25:44 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 17:25:44 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 17:25:54 2008 The current request is --- 415 of PG 
+
+Sun Jun 22 17:25:59 2008 output.gms found. Running gams
+Sun Jun 22 17:26:01 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 17:26:01 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 17:26:01 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 17:35:51 2008 The current request is --- 415 of PG 
+
+Sun Jun 22 17:35:57 2008 output.gms found. Running gams
+Sun Jun 22 17:35:59 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 17:35:59 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 17:35:59 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 19:16:33 2008 The current request is --- 422 of pg 
+
+Sun Jun 22 19:16:39 2008 output.gms found. Running gams
+Sun Jun 22 19:16:40 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 19:16:40 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 19:16:40 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Jun 22 19:16:50 2008 The current request is --- 422 of pg 
+
+Sun Jun 22 19:16:56 2008 output.gms found. Running gams
+Sun Jun 22 19:16:57 2008 output.lst found. Running extract-solution-param.pl
+Sun Jun 22 19:16:58 2008 output.sol found. Running write-solution.pl
+Sun Jun 22 19:16:58 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Mon Jun 23 19:33:13 2008 The current request is --- 440 of pg 
+
+Mon Jun 23 19:33:13 2008 output.gms found. Running gams
+Mon Jun 23 19:33:13 2008 output.lst found. Running extract-solution-param.pl
+Mon Jun 23 19:33:13 2008 output.sol found. Running write-solution.pl
+Mon Jun 23 19:33:13 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Mon Jun 23 19:35:43 2008 The current request is --- 441 of pg 
+
+Mon Jun 23 19:35:43 2008 output.gms found. Running gams
+Mon Jun 23 19:35:43 2008 output.lst found. Running extract-solution-param.pl
+Mon Jun 23 19:35:43 2008 output.sol found. Running write-solution.pl
+Mon Jun 23 19:35:43 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jun 24 10:18:47 2008 The current request is --- 442 of pg 
+
+Tue Jun 24 10:18:47 2008 output.gms found. Running gams
+Tue Jun 24 10:18:47 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 24 10:18:47 2008 output.sol found. Running write-solution.pl
+Tue Jun 24 10:18:47 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jun 24 10:19:28 2008 The current request is --- 443 of pg 
+
+Tue Jun 24 10:19:28 2008 output.gms found. Running gams
+Tue Jun 24 10:19:28 2008 output.lst found. Running extract-solution-param.pl
+Tue Jun 24 10:19:28 2008 output.sol found. Running write-solution.pl
+Tue Jun 24 10:19:28 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 11:04:34 2008 The current request is --- 447 of Isabe 
+
+Tue Jul  1 11:04:34 2008 output.gms found. Running gams
+Tue Jul  1 11:04:35 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 11:04:35 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 11:04:35 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 11:26:46 2008 The current request is --- 449 of Isabel 
+
+Tue Jul  1 11:26:47 2008 output.gms found. Running gams
+Tue Jul  1 11:26:47 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 11:26:47 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 11:26:47 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 11:40:07 2008 The current request is --- 450 of Isabel 
+
+Tue Jul  1 11:40:07 2008 output.gms found. Running gams
+Tue Jul  1 11:40:08 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 11:40:08 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 11:40:08 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 12:13:49 2008 The current request is --- 451 of Isabel 
+
+Tue Jul  1 12:13:51 2008 output.gms found. Running gams
+Tue Jul  1 12:13:51 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 12:13:51 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 12:13:51 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 12:22:12 2008 The current request is --- 452 of Isabel 
+
+Tue Jul  1 12:22:13 2008 output.gms found. Running gams
+Tue Jul  1 12:22:14 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 12:22:14 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 12:22:14 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  1 12:55:15 2008 The current request is --- 454 of Isabel 
+
+Tue Jul  1 12:55:15 2008 output.gms found. Running gams
+Tue Jul  1 12:55:15 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  1 12:55:15 2008 output.sol found. Running write-solution.pl
+Tue Jul  1 12:55:15 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  8 15:00:03 2008 Daemon Started. 
+Tue Jul  8 16:20:16 2008 The current request is --- 456 of pg 
+
+Tue Jul  8 16:20:16 2008 output.gms found. Running gams
+Tue Jul  8 16:20:17 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  8 16:20:17 2008 output.sol found. Running write-solution.pl
+Tue Jul  8 16:20:17 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  8 18:13:26 2008 Daemon Started. 
+Tue Jul  8 18:22:36 2008 The current request is --- 457 of pg 
+
+Tue Jul  8 18:22:36 2008 output.gms found. Running gams
+Tue Jul  8 18:22:36 2008 output.lst found. Running extract-solution-param.pl
+Tue Jul  8 18:22:36 2008 output.sol found. Running write-solution.pl
+Tue Jul  8 18:22:36 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Tue Jul  8 18:25:09 2008 Daemon Started. 
+Wed Jul 23 10:42:52 2008 The current request is --- 459 of Isabel 
+
+Wed Jul 23 10:45:16 2008 output.gms found. Running gams
+Wed Jul 23 10:45:25 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 10:45:25 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 10:45:25 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 10:55:16 2008 The current request is --- 460 of Isabel 
+
+Wed Jul 23 10:59:09 2008 output.gms found. Running gams
+Wed Jul 23 10:59:26 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 10:59:27 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 10:59:27 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 10:59:37 2008 The current request is --- 461 of Isabel 
+
+Wed Jul 23 11:00:27 2008 output.gms found. Running gams
+Wed Jul 23 11:00:30 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 11:00:30 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 11:00:30 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 11:00:30 2008 The current request is --- 462 of Isabel 
+
+Wed Jul 23 11:07:01 2008 output.gms found. Running gams
+Wed Jul 23 11:07:26 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 11:07:26 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 11:07:27 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 11:07:37 2008 The current request is --- 463 of Isabel 
+
+Wed Jul 23 11:10:02 2008 output.gms found. Running gams
+Wed Jul 23 11:10:09 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 11:10:09 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 11:10:09 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 11:10:09 2008 The current request is --- 464 of Isabel 
+
+Wed Jul 23 11:22:05 2008 output.gms found. Running gams
+Wed Jul 23 11:22:16 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 11:22:17 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 11:22:17 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 11:22:17 2008 The current request is --- 465 of Isabel 
+
+Wed Jul 23 11:31:24 2008 output.gms found. Running gams
+Wed Jul 23 11:31:34 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 11:31:35 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 11:31:35 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 14:38:42 2008 The current request is --- 467 of Isabel 
+
+Wed Jul 23 14:38:42 2008 output.gms found. Running gams
+Wed Jul 23 14:38:42 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 14:38:42 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 14:38:42 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 14:42:22 2008 The current request is --- 468 of Isabel 
+
+Wed Jul 23 14:42:22 2008 output.gms found. Running gams
+Wed Jul 23 14:42:22 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 14:42:22 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 14:42:22 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 16:42:47 2008 The current request is --- 469 of Isabel 
+
+Wed Jul 23 16:42:47 2008 output.gms found. Running gams
+Wed Jul 23 16:42:47 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 16:42:47 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 16:42:47 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 16:53:58 2008 The current request is --- 471 of Isabel 
+
+Wed Jul 23 16:53:58 2008 output.gms found. Running gams
+Wed Jul 23 16:53:58 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 16:53:58 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 16:53:58 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 16:54:38 2008 The current request is --- 472 of Isabel 
+
+Wed Jul 23 16:54:39 2008 output.gms found. Running gams
+Wed Jul 23 16:54:39 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 16:54:39 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 16:54:39 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 16:55:29 2008 The current request is --- 473 of Isabel 
+
+Wed Jul 23 16:55:29 2008 output.gms found. Running gams
+Wed Jul 23 16:55:29 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 16:55:29 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 16:55:29 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 17:24:30 2008 The current request is --- 474 of Isabel 
+
+Wed Jul 23 17:24:30 2008 output.gms found. Running gams
+Wed Jul 23 17:24:30 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 17:24:30 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 17:24:30 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 17:26:51 2008 The current request is --- 477 of Isabel 
+
+Wed Jul 23 17:26:51 2008 output.gms found. Running gams
+Wed Jul 23 17:26:51 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 17:26:51 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 17:26:51 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 17:27:21 2008 The current request is --- 478 of Isabel 
+
+Wed Jul 23 17:27:21 2008 output.gms found. Running gams
+Wed Jul 23 17:27:21 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 17:27:21 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 17:27:21 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Jul 23 17:28:11 2008 The current request is --- 479 of Isabel 
+
+Wed Jul 23 17:28:11 2008 output.gms found. Running gams
+Wed Jul 23 17:28:11 2008 output.lst found. Running extract-solution-param.pl
+Wed Jul 23 17:28:11 2008 output.sol found. Running write-solution.pl
+Wed Jul 23 17:28:11 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Aug 14 13:05:35 2008 The current request is --- 482 of User 
+
+Thu Aug 14 13:05:37 2008 output.gms found. Running gams
+Thu Aug 14 13:05:39 2008 output.lst found. Running extract-solution-param.pl
+Thu Aug 14 13:05:39 2008 output.sol found. Running write-solution.pl
+Thu Aug 14 13:05:39 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Aug 14 13:08:39 2008 The current request is --- 483 of User 
+
+Thu Aug 14 13:08:39 2008 output.gms found. Running gams
+Thu Aug 14 13:08:40 2008 output.lst found. Running extract-solution-param.pl
+Thu Aug 14 13:08:40 2008 output.sol found. Running write-solution.pl
+Thu Aug 14 13:08:40 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Aug 14 13:54:52 2008 The current request is --- 484 of User 
+
+Thu Aug 14 13:54:53 2008 output.gms found. Running gams
+Thu Aug 14 13:54:53 2008 output.lst found. Running extract-solution-param.pl
+Thu Aug 14 13:54:53 2008 output.sol found. Running write-solution.pl
+Thu Aug 14 13:54:53 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Aug 14 13:56:34 2008 The current request is --- 484 of User 
+
+Thu Aug 14 13:56:35 2008 output.gms found. Running gams
+Thu Aug 14 13:56:35 2008 output.lst found. Running extract-solution-param.pl
+Thu Aug 14 13:56:35 2008 output.sol found. Running write-solution.pl
+Thu Aug 14 13:56:35 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:28:13 2008 The current request is --- 490 of Isabel 
+
+Thu Sep 18 20:28:19 2008 output.gms found. Running gams
+Thu Sep 18 20:28:21 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:28:21 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:28:21 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:31:41 2008 The current request is --- 491 of Isabel 
+
+Thu Sep 18 20:31:41 2008 output.gms found. Running gams
+Thu Sep 18 20:31:41 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:31:41 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:31:41 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:36:21 2008 The current request is --- 492 of Isabel 
+
+Thu Sep 18 20:36:21 2008 output.gms found. Running gams
+Thu Sep 18 20:36:22 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:36:22 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:36:22 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:43:02 2008 The current request is --- 493 of Isabel 
+
+Thu Sep 18 20:43:02 2008 output.gms found. Running gams
+Thu Sep 18 20:43:02 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:43:02 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:43:02 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:46:13 2008 The current request is --- 494 of Isabel 
+
+Thu Sep 18 20:46:13 2008 output.gms found. Running gams
+Thu Sep 18 20:46:13 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:46:13 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:46:13 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:55:43 2008 The current request is --- 495 of Isabel 
+
+Thu Sep 18 20:55:43 2008 output.gms found. Running gams
+Thu Sep 18 20:55:43 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:55:43 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:55:43 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 20:59:03 2008 The current request is --- 496 of Isabel 
+
+Thu Sep 18 20:59:04 2008 output.gms found. Running gams
+Thu Sep 18 20:59:04 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 20:59:04 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 20:59:04 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 21:01:34 2008 The current request is --- 497 of Isabel 
+
+Thu Sep 18 21:01:34 2008 output.gms found. Running gams
+Thu Sep 18 21:01:34 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 21:01:34 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 21:01:34 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 21:07:05 2008 The current request is --- 498 of Isabel 
+
+Thu Sep 18 21:07:07 2008 output.gms found. Running gams
+Thu Sep 18 21:07:08 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 21:07:08 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 21:07:08 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Sep 18 21:10:38 2008 The current request is --- 500 of Isabel 
+
+Thu Sep 18 21:10:41 2008 output.gms found. Running gams
+Thu Sep 18 21:10:41 2008 output.lst found. Running extract-solution-param.pl
+Thu Sep 18 21:10:41 2008 output.sol found. Running write-solution.pl
+Thu Sep 18 21:10:41 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Nov 13 15:17:42 2008 Daemon Started. 
+Thu Nov 13 15:17:42 2008 The current request is --- 502 of Vcastric 
+
+Thu Nov 13 15:17:42 2008 output.gms not found
+Thu Nov 13 15:17:42 2008 The current request is --- 503 of vcastric 
+
+Thu Nov 13 15:17:42 2008 output.gms found. Running gams
+Thu Nov 13 15:17:43 2008 output.lst found. Running extract-solution-param.pl
+Thu Nov 13 15:17:43 2008 output.sol found. Running write-solution.pl
+Thu Nov 13 15:17:43 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Nov 13 15:17:43 2008 The current request is --- 505 of tanya 
+
+Thu Nov 13 15:17:44 2008 output.gms found. Running gams
+Thu Nov 13 15:17:44 2008 output.lst found. Running extract-solution-param.pl
+Thu Nov 13 15:17:44 2008 output.sol found. Running write-solution.pl
+Thu Nov 13 15:17:44 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Nov 16 21:16:32 2008 The current request is --- 508 of Saad 
+
+Sun Nov 16 21:16:32 2008 output.gms found. Running gams
+Sun Nov 16 21:16:32 2008 output.lst found. Running extract-solution-param.pl
+Sun Nov 16 21:16:32 2008 output.sol found. Running write-solution.pl
+Sun Nov 16 21:16:32 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Sun Nov 16 21:19:02 2008 The current request is --- 509 of Saad 
+
+Sun Nov 16 21:19:02 2008 output.gms found. Running gams
+Sun Nov 16 21:19:02 2008 output.lst found. Running extract-solution-param.pl
+Sun Nov 16 21:19:02 2008 output.sol found. Running write-solution.pl
+Sun Nov 16 21:19:02 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Wed Nov 19 22:39:39 2008 The current request is --- 510 of Saad 
+
+Wed Nov 19 22:39:40 2008 output.gms found. Running gams
+Wed Nov 19 22:39:41 2008 output.lst found. Running extract-solution-param.pl
+Wed Nov 19 22:39:41 2008 output.sol found. Running write-solution.pl
+Wed Nov 19 22:39:41 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Thu Nov 20 16:46:12 2008 The current request is --- 511 of pg 
+
+Thu Nov 20 16:46:14 2008 output.gms found. Running gams
+Thu Nov 20 16:46:14 2008 output.lst found. Running extract-solution-param.pl
+Thu Nov 20 16:46:14 2008 output.sol found. Running write-solution.pl
+Thu Nov 20 16:46:14 2008 output.soln found. Copying it to uploads dir and deleting temp files.
+Fri Nov 21 19:10:49 2008 Daemon Started. 
+Fri Nov 21 19:10:49 2008 The current request is --- 17 of priy 
+
+Fri Nov 21 19:10:50 2008 output.gms not found
+Fri Nov 21 19:10:50 2008 The current request is --- 18 of priy 
+
+Fri Nov 21 19:12:59 2008 Daemon Started. 
+Fri Nov 21 19:14:09 2008 The current request is --- 17 of priy 
+
+Fri Nov 21 19:14:09 2008 output.gms found. Running gams
+Fri Nov 21 19:14:09 2008 output.lst found. Running extract-solution-param.pl
+Fri Nov 21 19:14:09 2008 output.sol found. Running write-solution.pl
+Fri Nov 21 19:14:09 2008 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Fri Nov 21 19:14:09 2008 The current request is --- 18 of priy 
+
+Fri Nov 21 19:17:50 2008 The current request is --- 18 of priy 
+
+Fri Nov 21 19:18:42 2008 Daemon Started. 
+Fri Nov 21 19:18:42 2008 The current request is --- 18 of priy 
+
+Fri Nov 21 19:22:40 2008 Daemon Started. 
+Fri Nov 21 19:22:40 2008 The current request is --- 18 of priy 
+
+Mon Jul 16 13:43:16 2012 Daemon Started. 
+Mon Jul 16 13:43:16 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 13:43:23 2012 output.gms not found
+Mon Jul 16 13:51:51 2012 Daemon Started. 
+Mon Jul 16 13:51:51 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 13:53:11 2012 Daemon Started. 
+Mon Jul 16 13:53:11 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 13:53:15 2012 output.gms not found
+Mon Jul 16 14:00:19 2012 Daemon Started. 
+Mon Jul 16 14:00:19 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 14:00:28 2012 output.gms not found
+Mon Jul 16 14:11:02 2012 Daemon Started. 
+Mon Jul 16 14:11:02 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 14:11:18 2012 output.gms found. Running gams
+Mon Jul 16 14:11:18 2012 output.lst not found
+Mon Jul 16 14:29:03 2012 Daemon Started. 
+Mon Jul 16 14:29:03 2012 The current request is --- 57502 of Marco 
+
+Mon Jul 16 14:29:03 2012 output.gms found. Running gams
+Mon Jul 16 14:29:37 2012 output.lst found. Running extract-solution-param.pl
+Mon Jul 16 14:29:40 2012 output.sol not found
+Mon Jul 16 14:38:03 2012 Daemon Started. 
+Mon Jul 16 14:38:03 2012 The current request is --- 57504 of Marco 
+
+Mon Jul 16 14:38:03 2012 output.gms found. Running gams
+Mon Jul 16 14:39:21 2012 output.lst found. Running extract-solution-param.pl
+Mon Jul 16 14:39:24 2012 output.sol found. Running write-solution.pl
+Mon Jul 16 14:39:25 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Mon Jul 16 14:40:41 2012 Daemon Started. 
+Mon Jul 16 14:40:41 2012 The current request is --- 57505 of Marco 
+
+Mon Jul 16 14:40:41 2012 output.gms not found
+Mon Jul 16 14:41:00 2012 Daemon Started. 
+Mon Jul 16 14:41:40 2012 The current request is --- 57506 of Marco 
+
+Mon Jul 16 14:41:40 2012 output.gms not found
+Mon Jul 16 14:49:17 2012 Daemon Started. 
+Mon Jul 16 14:49:17 2012 The current request is --- 57507 of Marco 
+
+Mon Jul 16 14:49:17 2012 output.gms not found
+Tue Jul 17 14:18:38 2012 Daemon Started. 
+Tue Jul 17 14:18:38 2012 The current request is --- 57508 of Marco 
+
+Tue Jul 17 14:18:38 2012 output.gms not found
+Tue Jul 17 14:22:39 2012 Daemon Started. 
+Tue Jul 17 14:22:39 2012 The current request is --- 57509 of Marco 
+
+Tue Jul 17 14:22:39 2012 output.gms not found
+Tue Jul 17 14:33:08 2012 Daemon Started. 
+Tue Jul 17 14:33:08 2012 The current request is --- 57511 of marco 
+
+Tue Jul 17 14:33:08 2012 output.gms not found
+Tue Jul 17 14:40:51 2012 Daemon Started. 
+Tue Jul 17 14:40:51 2012 The current request is --- 57512 of marco 
+
+Tue Jul 17 14:40:51 2012 output.gms not found
+Tue Jul 17 14:45:27 2012 Daemon Started. 
+Tue Jul 17 14:45:27 2012 The current request is --- 57513 of marco 
+
+Tue Jul 17 14:45:28 2012 output.gms found. Running gams
+Tue Jul 17 14:45:28 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 14:45:28 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 14:45:28 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 14:46:50 2012 The current request is --- 57514 of marco 
+
+Tue Jul 17 14:47:13 2012 output.gms found. Running gams
+Tue Jul 17 14:47:15 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 14:47:15 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 14:47:15 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 15:26:35 2012 Daemon Started. 
+Tue Jul 17 15:26:35 2012 The current request is --- 57515 of marco 
+
+Tue Jul 17 15:26:35 2012 output.gms found. Running gams
+Tue Jul 17 15:26:35 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 15:26:35 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 15:26:35 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 15:28:17 2012 Daemon Started. 
+Tue Jul 17 15:28:17 2012 The current request is --- 57516 of marco 
+
+Tue Jul 17 15:28:17 2012 output.gms found. Running gams
+Tue Jul 17 15:28:17 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 15:28:17 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 15:28:17 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 16:28:02 2012 Daemon Started. 
+Tue Jul 17 16:28:32 2012 The current request is --- 57523 of marco 
+
+Tue Jul 17 16:28:32 2012 output.gms found. Running gams
+Tue Jul 17 16:28:32 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 16:28:32 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 16:28:32 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 16:31:49 2012 Daemon Started. 
+Tue Jul 17 16:32:19 2012 The current request is --- 57524 of marco 
+
+Tue Jul 17 16:32:19 2012 output.gms found. Running gams
+Tue Jul 17 16:32:19 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 16:32:19 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 16:32:19 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 16:39:03 2012 Daemon Started. 
+Tue Jul 17 16:39:33 2012 The current request is --- 57526 of marco 
+
+Tue Jul 17 16:39:33 2012 output.gms found. Running gams
+Tue Jul 17 16:39:33 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 16:39:33 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 16:39:33 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 16:55:06 2012 Daemon Started. 
+Tue Jul 17 16:55:36 2012 The current request is --- 57527 of marco 
+
+Tue Jul 17 16:55:36 2012 output.gms found. Running gams
+Tue Jul 17 16:55:36 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 16:55:36 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 16:55:36 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 17:18:03 2012 Daemon Started. 
+Tue Jul 17 17:18:04 2012 The current request is --- 57528 of marco 
+
+Tue Jul 17 17:18:04 2012 output.gms found. Running gams
+Tue Jul 17 17:18:04 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 17:18:04 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 17:18:04 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 17:40:10 2012 Daemon Started. 
+Tue Jul 17 17:40:10 2012 The current request is --- 57529 of marco 
+
+Tue Jul 17 17:40:10 2012 output.gms found. Running gams
+Tue Jul 17 17:40:11 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 17:40:11 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 17:40:11 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.
+Tue Jul 17 17:42:24 2012 Daemon Started. 
+Tue Jul 17 17:44:44 2012 The current request is --- 57530 of marco 
+
+Tue Jul 17 17:44:44 2012 output.gms found. Running gams
+Tue Jul 17 17:44:44 2012 output.lst found. Running extract-solution-param.pl
+Tue Jul 17 17:44:44 2012 output.sol found. Running write-solution.pl
+Tue Jul 17 17:44:44 2012 output.soln found. Copying it to uploads_new dir and deleting temp files.

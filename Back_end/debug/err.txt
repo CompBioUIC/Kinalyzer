@@ -1,0 +1,2 @@
+ABORTING! Cannot open output.sol input file!
+ABORTING! Cannot open output.sol input file!

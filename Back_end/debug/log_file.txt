@@ -1,0 +1,67 @@
+Fri Jul 22 15:09:33 2016 Daemon Started.
+Fri Jul 22 15:13:04 2016 Daemon Started.
+Fri Jul 22 15:15:51 2016 Daemon Started.
+Fri Jul 22 15:21:51 2016 1 new jobs to kinalyze.
+Fri Jul 22 15:21:51 2016 The current job is 99 of Krista
+Fri Jul 22 15:21:51 2016 Running 2-allele algorithm
+Tue Jul 26 14:34:33 2016 Daemon Started.
+Tue Jul 26 14:38:34 2016 1 new jobs to kinalyze.
+Tue Jul 26 14:38:34 2016 The current job is 99 of Krista
+Tue Jul 26 14:38:34 2016 Running 2-allele algorithm
+Wed Jul 27 10:45:18 2016 Daemon Started.
+Wed Jul 27 10:45:18 2016 1 new jobs to kinalyze.
+Wed Jul 27 10:45:18 2016 The current job is 99 of Krista
+Wed Jul 27 10:45:18 2016 Running 2-allele algorithm
+Wed Jul 27 14:57:59 2016 output.gms found. Running gams
+Wed Jul 27 15:01:27 2016 output.lst found. Running extract-solution-param.pl
+Wed Jul 27 15:01:44 2016 output.sol not found
+Wed Jul 27 15:01:44 2016 Error in computing solution for job 99
+Wed Jul 27 15:01:44 2016 Updating state=2 in database for job 99
+Wed Jul 27 16:08:20 2016 Daemon Started.
+Wed Jul 27 16:08:20 2016 1 new jobs to kinalyze.
+Wed Jul 27 16:08:20 2016 The current job is 99 of Krista
+Wed Jul 27 16:08:20 2016 Executing updateAndSendErrorMsg
+Wed Jul 27 16:08:20 2016 Error in computing solution for job [99]
+Wed Jul 27 16:08:20 2016 Updated state=2 (Failed)  in database for job [99]
+Wed Jul 27 16:08:20 2016 Sending mail to Krista at abanso2@uic.edu
+Wed Jul 27 16:08:20 2016 Mail sent to Krista at abanso2@uic.edu for failed job [99].
+Wed Jul 27 16:08:20 2016 updateAndSendErrorMsg completed successfully
+Wed Jul 27 17:38:45 2016 Daemon Started.
+Wed Jul 27 17:39:45 2016 1 new jobs to kinalyze.
+Wed Jul 27 17:39:45 2016 The current job is 99 of Krista
+Wed Jul 27 17:39:45 2016 Running 2-allele algorithm
+Wed Jul 27 22:22:15 2016 output.gms found. Running gams
+Wed Jul 27 22:25:48 2016 output.lst found. Running extract-solution-param.pl
+Wed Jul 27 22:26:04 2016 output.sol not found
+Wed Jul 27 22:26:04 2016 Error in computing solution for job [99]
+Wed Jul 27 22:26:04 2016 Updated state=2 (Failed)  in database for job [99]
+Wed Jul 27 22:26:04 2016 Sending mail to Krista at abanso2@uic.edu
+Wed Jul 27 22:26:04 2016 Mail sent to Krista at abanso2@uic.edu for failed job [99].
+Thu Jul 28 17:01:55 2016 Daemon Started.
+Thu Jul 28 17:02:55 2016 1 new jobs to kinalyze.
+Thu Jul 28 17:02:55 2016 The current job is 145 of Krutarth
+Thu Jul 28 17:02:55 2016 Error in computing solution for job [145]
+Thu Jul 28 17:02:55 2016 Updated state=2 (Failed)  in database for job [145]
+Thu Jul 28 17:02:55 2016 Sending mail to Krutarth at kjoshi24@uic.edu
+Thu Jul 28 17:02:56 2016 Mail sent to Krutarth at kjoshi24@uic.edu for failed job [145].
+Thu Jul 28 17:05:16 2016 Daemon Started.
+Thu Jul 28 17:07:16 2016 1 new jobs to kinalyze.
+Thu Jul 28 17:07:16 2016 The current job is 145 of Krutarth
+Thu Jul 28 17:07:16 2016 Error in computing solution for job [145]
+Thu Jul 28 17:07:16 2016 Updated state=2 (Failed)  in database for job [145]
+Thu Jul 28 17:07:16 2016 Sending mail to Krutarth at kjoshi24@uic.edu
+Thu Jul 28 17:07:16 2016 Mail sent to Krutarth at kjoshi24@uic.edu for failed job [145].
+Thu Jul 28 17:10:18 2016 Daemon Started.
+Thu Jul 28 17:11:18 2016 1 new jobs to kinalyze.
+Thu Jul 28 17:11:18 2016 The current job is 145 of Krutarth
+Thu Jul 28 17:11:18 2016 Error in computing solution for job [145]
+Thu Jul 28 17:11:18 2016 Updated state=2 (Failed)  in database for job [145]
+Thu Jul 28 17:11:18 2016 Sending mail to Krutarth at kjoshi24@uic.edu
+Thu Jul 28 17:11:18 2016 Mail sent to Krutarth at kjoshi24@uic.edu for failed job [145].
+Thu Jul 28 17:16:35 2016 Daemon Started.
+Thu Jul 28 17:17:35 2016 1 new jobs to kinalyze.
+Thu Jul 28 17:17:35 2016 The current job is 145 of Krutarth
+Thu Jul 28 17:17:35 2016 Error in computing solution for job [145]
+Thu Jul 28 17:17:35 2016 Updated state=2 (Failed)  in database for job [145]
+Thu Jul 28 17:17:35 2016 Sending mail to Krutarth at kjoshi24@uic.edu
+Thu Jul 28 17:17:35 2016 Mail sent to Krutarth at kjoshi24@uic.edu for failed job [145].

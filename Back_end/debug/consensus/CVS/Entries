@@ -1,0 +1,24 @@
+/Makefile/1.7/Thu Nov 15 06:20:44 2007//
+/consensus.c/1.26/Thu Dec 27 09:43:43 2007//
+/costs.txt/1.12/Thu Dec 27 09:43:43 2007//
+/hashtable.c/1.1.1.1/Thu Sep 27 05:26:27 2007//
+/hashtable.h/1.1.1.1/Thu Sep 27 05:26:27 2007//
+/hashtable_itr.c/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_itr.h/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_powers.c/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_prime.c/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_private.h/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_utility.c/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/hashtable_utility.h/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/juv_shrimp/1.1.1.1/Thu Sep 27 05:26:28 2007//
+/juv_test/1.1.1.1/Thu Sep 27 05:26:27 2007//
+/main.c/1.14/Thu Dec 27 09:43:44 2007//
+/main.h/1.7/Thu Dec 27 09:43:44 2007//
+/movemap/1.2/Sun Oct 21 07:46:30 2007//
+/sets/1.16/Thu Dec 27 09:43:45 2007//
+/setsdebug/1.33/Thu Dec 27 09:43:45 2007//
+/siblings-complete.csv/1.3/Sun Oct 21 07:46:32 2007//
+/structures.h/1.3/Mon Nov  5 10:05:55 2007//
+/utilities.c/1.21/Wed Dec 26 01:40:21 2007//
+/utilities.h/1.6/Wed Dec 26 01:40:22 2007//
+D

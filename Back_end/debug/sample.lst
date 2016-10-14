@@ -1,0 +1,105 @@
+GAMS Rev 240  LEX-LEG 24.0.2 x86_64/Linux                                                                                                                                                                                              05/14/13 17:19:22 Page 1
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+C o m p i l a t i o n
+
+
+   2   
+   3  SET i   sibling   /s1*s4/;
+   4  SET j   sibset    /t1*t10/;
+   5   
+   6  TABLE A(j,i)    sets covered by node i
+   7           s1      s2      s3      s4
+   8  t1       0       1       1       0
+   9  t2       1       0       0       1
+  10  t3       1       1       0       0
+  11  t4       0       1       0       1
+  12  t5       1       0       1       0
+  13  t6       0       0       1       1
+  14  t7       1       0       0       0
+  15  t8       0       1       0       0
+  16  t9       0       0       1       0
+  17  t10      0       0       0       1
+  18  ;
+  19   
+
+
+COMPILATION TIME     =        0.001 SECONDS      3 Mb  LEX240-240 Feb 14, 2013
+GAMS Rev 240  LEX-LEG 24.0.2 x86_64/Linux                                                                                                                                                                                              05/14/13 17:19:22 Page 2
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Model Statistics    SOLVE setcover Using MIP From line 53
+
+
+MODEL STATISTICS
+
+BLOCKS OF EQUATIONS           2     SINGLE EQUATIONS            5
+BLOCKS OF VARIABLES           2     SINGLE VARIABLES           11
+NON ZERO ELEMENTS            27     DISCRETE VARIABLES         10
+
+
+GENERATION TIME      =        0.002 SECONDS      4 Mb  LEX240-240 Feb 14, 2013
+
+
+EXECUTION TIME       =        0.002 SECONDS      4 Mb  LEX240-240 Feb 14, 2013
+GAMS Rev 240  LEX-LEG 24.0.2 x86_64/Linux                                                                                                                                                                                              05/14/13 17:19:22 Page 3
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+Solution Report     SOLVE setcover Using MIP From line 53
+
+
+               S O L V E      S U M M A R Y
+
+     MODEL   setcover            OBJECTIVE  TF
+     TYPE    MIP                 DIRECTION  MINIMIZE
+     SOLVER  CPLEX               FROM LINE  53
+
+**** SOLVER STATUS     1 Normal Completion         
+**** MODEL STATUS      1 Optimal                   
+**** OBJECTIVE VALUE                2.0000
+
+ RESOURCE USAGE, LIMIT          0.013        50.000
+ ITERATION COUNT, LIMIT         5          5000
+
+IBM ILOG CPLEX   Feb 14, 2013 24.0.2 LEX 38380.38394 LEG x86_64/Linux         
+Cplex 12.5.0.0
+
+MIP status(101): integer optimal solution
+Cplex Time: 0.00sec (det. 0.05 ticks)
+Fixing integer variables, and solving final LP...
+Fixed MIP status(1): optimal
+Cplex Time: 0.00sec (det. 0.00 ticks)
+Proven optimal solution.
+
+MIP Solution:            2.000000    (5 iterations, 0 nodes)
+Final Solve:             2.000000    (0 iterations)
+
+Best possible:           2.000000
+Absolute gap:            0.000000
+Relative gap:            0.000000
+
+
+
+**** REPORT SUMMARY :        0     NONOPT
+                             0 INFEASIBLE
+                             0  UNBOUNDED
+GAMS Rev 240  LEX-LEG 24.0.2 x86_64/Linux                                                                                                                                                                                              05/14/13 17:19:22 Page 4
+G e n e r a l   A l g e b r a i c   M o d e l i n g   S y s t e m
+E x e c u t i o n
+
+
+----     55 VARIABLE xset.L  sibling j
+
+t1 1.000,    t2 1.000
+
+
+
+EXECUTION TIME       =        0.001 SECONDS      3 Mb  LEX240-240 Feb 14, 2013
+
+
+USER: Computer Science                               G130315:1348AP-LNX
+      University of Illinois at Chicago                         DC10233
+      License for teaching and research at degree granting institutions
+
+
+**** FILE SUMMARY
+
+Input      /opt/kinalyzer/debug/sample.gms
+Output     /opt/kinalyzer/debug/sample.lst
